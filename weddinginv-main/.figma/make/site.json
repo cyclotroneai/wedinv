@@ -1,0 +1,10 @@
+{
+  "description": "A clean, animated wedding invitation website sharing event details, schedule, and celebration information with guests in a polished, easy-to-browse design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
